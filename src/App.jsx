@@ -18,7 +18,7 @@ function App() {
             </q>
           </div>
           <h1 className="text-5xl/tight font-bold mb-6">
-            Hi, my name Joseph the great
+            Hi, my name Joseph The Great
           </h1>
           <p className="text-base/loose mb-6 opacity-50">
             saya mempunyai ketertarikan pada bidang pragamingdan desainer
